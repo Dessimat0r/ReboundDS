@@ -1,0 +1,41 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+9 sprites :
+  bat : 16colors, 8x32, Pal : bat_Pal, -> bat_Sprite
+  ball : 16colors, 8x8, Pal : ball_Pal, -> ball_Sprite
+  brick1 : 16colors, 8x16, Pal : brick1_Pal, -> brick1_Sprite
+  brick2 : 16colors, 8x16, Pal : brick2_Pal, -> brick2_Sprite
+  gem1 : 16colors, 8x16, Pal : gem1_Pal, -> gem1_Sprite
+  brick1blue2 : 16colors, 8x16, Pal : brick1blue2_Pal, -> brick1blue2_Sprite
+  brick1green : 16colors, 8x16, Pal : brick1green_Pal, -> brick1green_Sprite
+  brick1orange : 16colors, 8x16, Pal : brick1orange_Pal, -> brick1orange_Sprite
+  brick1yellow : 16colors, 8x16, Pal : brick1yellow_Pal, -> brick1yellow_Sprite
+
+4 backgrounds :
+  font : TileBg, 256x256, Pal : font_Pal, 789 tiles -> font_Tiles and font_Map
+  logo1 : TileBg, 256x192, Pal : logo1_Pal, 238 tiles -> logo1_Tiles and logo1_Map
+  bg1 : TileBg, 256x192, Pal : bg1_Pal, 767 tiles -> bg1_Tiles and bg1_Map
+  bricks : 8bit, 32x32, Pal : bricks_Pal, -> bricks_Bitmap
+
+13 palettes :
+  bat_Pal, 3 colors
+  ball_Pal, 3 colors
+  brick1_Pal, 4 colors
+  brick2_Pal, 4 colors
+  gem1_Pal, 3 colors
+  brick1blue2_Pal, 4 colors
+  brick1green_Pal, 4 colors
+  brick1orange_Pal, 4 colors
+  brick1yellow_Pal, 4 colors
+  font_Pal, 41 colors
+  logo1_Pal, 246 colors
+  bg1_Pal, 63 colors
+  bricks_Pal, 4 colors
+
+Converted in 0 minutes 0 seconds
+
+Finished !

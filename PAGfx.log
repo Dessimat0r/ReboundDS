@@ -1,0 +1,21 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+4 sprites :
+  bat : 256colors, 8x32, Pal : bat_Pal, -> bat_Sprite
+  ball : 256colors, 8x8, Pal : ball_Pal, -> ball_Sprite
+  brick1 : 256colors, 8x16, Pal : brick1_Pal, -> brick1_Sprite
+  brick2 : 256colors, 8x16, Pal : brick2_Pal, -> brick2_Sprite
+
+4 palettes :
+  bat_Pal, 3 colors
+  ball_Pal, 3 colors
+  brick1_Pal, 4 colors
+  brick2_Pal, 4 colors
+
+Converted in 0 minutes 0 seconds
+
+Finished !
