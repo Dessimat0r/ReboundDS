@@ -1,22 +1,31 @@
 ========================================================================
-    MAKEFILE PROJECT : ReboundDS Project Overview
+      Rebound DS : "A veritable Poing clone for the Nintendo DS" 
 ========================================================================
+This was released as open source as I would never get around to completing
+it. Assume this is under the BSD license.
 
-AppWizard has created this ReboundDS project for you.  
+Copyright 2010 Overlord Industries. All rights reserved.
 
-This file contains a summary of what you will find in each of the files that
-make up your ReboundDS project.
+Redistribution and use in source and binary forms, with or without modification, are
+permitted provided that the following conditions are met:
 
+   1. Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
 
-ReboundDS.vcproj
-    This is the main project file for VC++ projects generated using an Application Wizard. 
-    It contains information about the version of Visual C++ that generated the file, and 
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+   2. Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
 
-This project allows you to build/clean/rebuild from within Visual Studio by calling the commands you have input 
-in the wizard. The build command can be nmake or any other tool you use.
+THIS SOFTWARE IS PROVIDED BY OVERLORD INDUSTRIES ``AS IS'' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL OVERLORD INDUSTRIES OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-This project does not contain any files, so there are none displayed in Solution Explorer.
-
-/////////////////////////////////////////////////////////////////////////////
+The views and conclusions contained in the software and documentation are those of the
+authors and should not be interpreted as representing official policies, either expressed
+or implied, of Overlord Industries.
